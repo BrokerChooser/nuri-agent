@@ -55,3 +55,4 @@ if __name__ == '__main__':
         print(f"{response['message']}, {response['data']['bid_price']},{response['data']['ask_price']}")
     else:
         print(f"{response['message']}")
+    print('random for github')
